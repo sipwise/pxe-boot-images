@@ -1,0 +1,17 @@
+NOTE: The current git pository tracks images/* files
+using Git Large File Storage (LFS).
+
+Please download and install Git command line extension
+'git-lfs' to checkout code properly (mainly images/* files).
+
+https://github.com/github/git-lfs/releases
+
+# dpkg -i git-lfs_1.1.0_amd64.deb
+$ git lfs install
+
+In short:
+the content of images/* folder is stored on GitHub LFS directly
+and checkouted/updated automatically using git-lfs extension.
+The repository itself contains references to big files only
+(altogether with their checksum).
+

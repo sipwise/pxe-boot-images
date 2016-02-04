@@ -1,0 +1,36 @@
+NOTE: The current git repository tracks huge files
+using Git Large File Storage (LFS).
+
+Please download and install Git command line extension
+'git-lfs' to checkout code properly.
+
+https://github.com/github/git-lfs/releases
+
+# dpkg -i git-lfs_1.1.0_amd64.deb
+$ git lfs install
+
+In short:
+huge files are stored on GitHub LFS directly
+and checked out/updated automatically using git-lfs extension.
+The repository itself contains references to big files only
+(altogether with their checksum).
+
+# Adding new big files:
+
+git lfs track <filename>
+git add <filename>
+git lfs status
+
+```
+On branch vseva/17675
+Git LFS objects to be pushed to gerrit/master:
+
+	fs/grml64-full/grml64-full.squashfs (378.6 MB)
+	images/initrd.img (17.1 MB)
+	images/vmlinuz (2.9 MB)
+
+Git LFS objects to be committed:
+
+
+Git LFS objects not staged for commit:
+```

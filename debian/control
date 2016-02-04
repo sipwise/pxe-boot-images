@@ -1,0 +1,20 @@
+Source: ngcp-pxe-boot
+Section: net
+Priority: extra
+Maintainer: Sipwise Development Team <support@sipwise.com>
+Build-Depends: debhelper (>= 9~)
+Standards-Version: 3.9.7
+Homepage: https://sipwise.com/
+
+Package: ngcp-pxe-boot-images
+Architecture: all
+Depends: pxelinux,
+         ${misc:Depends}
+Description: PXE boot files for PRO/Carrier bootstrap
+ PXE boot files to bootstrap PRO/Carrier (mainly Grml files).
+
+Package: ngcp-pxe-boot-fs
+Architecture: all
+Depends: ${misc:Depends}
+Description: filesystem files for PRO/Carrier bootstrap
+ filesystem files to bootstrap PRO/Carrier (mainly Grml files).

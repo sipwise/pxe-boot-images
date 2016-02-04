@@ -1,0 +1,8 @@
+[core]
+  repositoryformatversion = 0
+[lfs]
+  url = "https://github.com/sipwise/pxe-boot-images.git/info/lfs"
+[remote "origin"]
+  url = https://github.com/sipwise/pxe-boot-images
+  fetch = +refs/heads/*:refs/remotes/origin/*
+  lfsurl = "https://github.com/sipwise/pxe-boot-images.git/info/lfs"

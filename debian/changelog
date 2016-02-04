@@ -1,0 +1,7 @@
+ngcp-pxe-boot (0.1.0.0+0~grml20140303) unstable; urgency=medium
+
+  [ Alexander Lutay ]
+  * [1e16654] MT#17675 Add .gitreview to pxe-boot-images
+  * Init
+
+ -- Alexander Lutay <alutay@sipwise.com>  Thu, 04 Feb 2016 14:29:20 +0100

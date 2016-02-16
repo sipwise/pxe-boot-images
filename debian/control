@@ -8,8 +8,7 @@ Homepage: https://sipwise.com/
 
 Package: ngcp-pxe-boot-images
 Architecture: all
-Depends: pxelinux,
-         ${misc:Depends}
+Depends: ${misc:Depends}
 Description: PXE boot files for PRO/Carrier bootstrap
  PXE boot files to bootstrap PRO/Carrier (mainly Grml files).
 

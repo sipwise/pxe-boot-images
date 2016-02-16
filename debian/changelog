@@ -1,3 +1,9 @@
+ngcp-pxe-boot (0.2.0.0+0~grml20141114) unstable; urgency=medium
+
+  * [2412ea1] MT#17675 Update PXE files from GRML 2014-11-14 (Gschistigschasti)
+
+ -- Alexander Lutay <alutay@sipwise.com>  Tue, 16 Feb 2016 15:40:28 +0100
+
 ngcp-pxe-boot (0.1.0.0+0~grml20140303) unstable; urgency=medium
 
   [ Alexander Lutay ]

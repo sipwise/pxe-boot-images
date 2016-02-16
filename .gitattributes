@@ -1,3 +1,4 @@
 fs/grml64-full/grml64-full.squashfs filter=lfs diff=lfs merge=lfs -text
 images/initrd.img filter=lfs diff=lfs merge=lfs -text
+images/pxelinux.0 filter=lfs diff=lfs merge=lfs -text
 images/vmlinuz filter=lfs diff=lfs merge=lfs -text

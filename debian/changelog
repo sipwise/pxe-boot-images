@@ -1,3 +1,9 @@
+ngcp-pxe-boot (0.3.0.0+0~grml20141114) unstable; urgency=medium
+
+  * [9f8b34a] MT#17673 Add iPXE undionly.kpxe to ngcp-pxe-boot-imagesm & remove pxelinux.0
+
+ -- Alexander Lutay <alutay@sipwise.com>  Mon, 29 Feb 2016 15:41:01 +0100
+
 ngcp-pxe-boot (0.2.0.0+0~grml20141114) unstable; urgency=medium
 
   * [2412ea1] MT#17675 Update PXE files from GRML 2014-11-14 (Gschistigschasti)

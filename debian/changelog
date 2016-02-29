@@ -1,8 +1,9 @@
 ngcp-pxe-boot (0.3.0.0+0~grml20141114) unstable; urgency=medium
 
+  * [19eb6ca] MT#17673 Move binary files from ngcp-pxe-boot-* packages to 'code' storage '/usr/share/'
   * [9f8b34a] MT#17673 Add iPXE undionly.kpxe to ngcp-pxe-boot-imagesm & remove pxelinux.0
 
- -- Alexander Lutay <alutay@sipwise.com>  Mon, 29 Feb 2016 15:41:01 +0100
+ -- Alexander Lutay <alutay@sipwise.com>  Mon, 29 Feb 2016 15:50:40 +0100
 
 ngcp-pxe-boot (0.2.0.0+0~grml20141114) unstable; urgency=medium
 

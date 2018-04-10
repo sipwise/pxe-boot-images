@@ -1,3 +1,13 @@
+ngcp-pxe-boot (0.4.0.0+0~grml20170531) unstable; urgency=medium
+
+  [ Guillem Jover ]
+  * [dfb2ef9] TT#22072 Update packaging
+
+  [ Alex Lutay ]
+  * [39a48d6] TT#35550 Update GRML binary files to GRML version 2017-05-31 (will be used for mr6.2+)
+
+ -- Alex Lutay <alutay@sipwise.com>  Tue, 10 Apr 2018 13:19:01 +0200
+
 ngcp-pxe-boot (0.3.0.0+0~grml20141114) unstable; urgency=medium
 
   * [19eb6ca] MT#17673 Move binary files from ngcp-pxe-boot-* packages to 'code' storage '/usr/share/'

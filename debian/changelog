@@ -1,3 +1,10 @@
+ngcp-pxe-boot (0.5.0.0+0~grml20180411) unstable; urgency=medium
+
+  [ Alex Lutay ]
+  * [ea57592] TT#35550 Update GRML binary files to GRML version 2018-04-11 (autobuild-build2338)
+
+ -- Alex Lutay <alutay@sipwise.com>  Wed, 11 Apr 2018 15:05:56 +0200
+
 ngcp-pxe-boot (0.4.0.0+0~grml20170531) unstable; urgency=medium
 
   [ Guillem Jover ]

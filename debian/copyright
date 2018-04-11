@@ -10,7 +10,7 @@ Files: images/initrd.img images/vmlinuz
 Copyright: 1991-2012 Linus Torvalds and many others
 License: GPL-2
 
-Files: fs/grml64-full/*
+Files: fs/grml64-small/*
 Copyright: Michael Prokop <mika@grml.org>
 License: miscellaneous, see http://grml.org/
 

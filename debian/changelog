@@ -1,3 +1,10 @@
+ngcp-pxe-boot (0.5.1.0+0~grml20180411) unstable; urgency=medium
+
+  [ Volodymyr Fedorov ]
+  * [74e221e] TT#11444 Add uEFI ipxe bootloader
+
+ -- Alex Lutay <alutay@sipwise.com>  Mon, 17 Sep 2018 09:58:20 +0200
+
 ngcp-pxe-boot (0.5.0.0+0~grml20180411) unstable; urgency=medium
 
   [ Alex Lutay ]

@@ -1,3 +1,9 @@
+ngcp-pxe-boot (0.5.2.0+0~grml20181230) unstable; urgency=medium
+
+  * [c8519bb] TT#49212 Update GRML squashfs file to GRML version 2018.12.30
+
+ -- Mykola Malkov <mmalkov@sipwise.com>  Thu, 17 Jan 2019 15:31:13 +0200
+
 ngcp-pxe-boot (0.5.1.0+0~grml20180411) unstable; urgency=medium
 
   [ Volodymyr Fedorov ]

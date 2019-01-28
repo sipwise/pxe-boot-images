@@ -1,3 +1,10 @@
+ngcp-pxe-boot (0.5.2.1+0~grml20181230) unstable; urgency=medium
+
+  [ Mykola Malkov ]
+  * [6f7589b] TT#49212 Update GRML binary files to GRML version 2018.12.30
+
+ -- Mykola Malkov <mmalkov@sipwise.com>  Mon, 28 Jan 2019 16:22:11 +0200
+
 ngcp-pxe-boot (0.5.2.0+0~grml20181230) unstable; urgency=medium
 
   * [c8519bb] TT#49212 Update GRML squashfs file to GRML version 2018.12.30

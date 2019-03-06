@@ -1,3 +1,9 @@
+ngcp-pxe-boot (0.6.0.1+0~grml-sipwise-buster20190306) unstable; urgency=medium
+
+  * [1ecef82] TT#48647 Update squashfs and binary files
+
+ -- Mykola Malkov <mmalkov@sipwise.com>  Wed, 06 Mar 2019 13:58:57 +0200
+
 ngcp-pxe-boot (0.5.2.1+0~grml20181230) unstable; urgency=medium
 
   [ Mykola Malkov ]

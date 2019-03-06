@@ -1,4 +1,4 @@
-ngcp-pxe-boot (0.6.0.1+0~grml-sipwise-buster20190306) unstable; urgency=medium
+ngcp-pxe-boot (0.6.0.1+0~sipwise20190306) unstable; urgency=medium
 
   * [1ecef82] TT#48647 Update squashfs and binary files
 

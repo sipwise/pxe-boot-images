@@ -1,4 +1,4 @@
-ngcp-pxe-boot (0.6.1.1+0~sipwise20190306) unstable; urgency=medium
+ngcp-pxe-boot (0.6.1.1+0~sipwise20190326) unstable; urgency=medium
 
   * [817ebcf] TT#48647 Update binary files to Grml-sipwise20190322
   * [2dcce2c] TT#36350 Update binary files to Grml-sipwise20190326

@@ -1,3 +1,9 @@
+ngcp-pxe-boot (0.6.2.1+0~sipwise20190711) unstable; urgency=medium
+
+  * [c092308] TT#36350 Update binary files to Grml-sipwise20190805
+
+ -- Mykola Malkov <mmalkov@sipwise.com>  Mon, 05 Aug 2019 11:01:44 +0300
+
 ngcp-pxe-boot (0.6.1.3+0~sipwise20190711) unstable; urgency=medium
 
   * [5f29208] TT#62000 Update binary files to Grml-sipwise20190711

@@ -1,3 +1,9 @@
+ngcp-pxe-boot (0.6.3.1+0~sipwise20191022) unstable; urgency=medium
+
+  * [dbc1e6b] TT#54410 Update expiration date of F411A836
+
+ -- Mykola Malkov <mmalkov@sipwise.com>  Wed, 23 Oct 2019 15:21:56 +0300
+
 ngcp-pxe-boot (0.6.2.1+0~sipwise20190805) unstable; urgency=medium
 
   * [c092308] TT#36350 Update binary files to Grml-sipwise20190805

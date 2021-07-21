@@ -1,3 +1,9 @@
+ngcp-pxe-boot (0.7.1.1+0~sipwise20210719) unstable; urgency=medium
+
+  * [c7fb69e] TT#113650 Update binary files to grml-sipwise20210719.iso
+
+ -- Sergii Kipot <skipot@sipwise.com>  Wed, 21 Jul 2021 15:23:36 +0200
+
 ngcp-pxe-boot (0.7.0.1+0~sipwise20210511) unstable; urgency=medium
 
   * [0a94f8b] TT#120300 Update binary files to Grml-sipwise20210511

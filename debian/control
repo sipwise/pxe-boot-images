@@ -3,9 +3,9 @@ Section: net
 Priority: optional
 Maintainer: Sipwise Development Team <support@sipwise.com>
 Homepage: https://sipwise.com/
-Standards-Version: 3.9.8
+Standards-Version: 4.5.1
 Build-Depends:
- debhelper-compat (= 12),
+ debhelper-compat (= 13),
 
 Package: ngcp-pxe-boot-images
 Architecture: all

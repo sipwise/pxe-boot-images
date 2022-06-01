@@ -1,3 +1,13 @@
+ngcp-pxe-boot (0.7.2.1+0~sipwise20210719) unstable; urgency=medium
+
+  [ Guillem Jover ]
+  * [25f1f41] TT#124273 Update packaging for bullseye
+
+  [ Mykola Malkov ]
+  * [0fd3986] TT#179354 Update binary files to grml-sipwise-bullseye-20220601_103947.iso
+
+ -- Mykola Malkov <mmalkov@sipwise.com>  Wed, 01 Jun 2022 15:09:45 +0300
+
 ngcp-pxe-boot (0.7.1.1+0~sipwise20210719) unstable; urgency=medium
 
   * [c7fb69e] TT#113650 Update binary files to grml-sipwise20210719.iso

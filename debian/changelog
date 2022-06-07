@@ -1,3 +1,9 @@
+ngcp-pxe-boot (0.7.2.2+0~sipwise20220607) unstable; urgency=medium
+
+  * [d05da3c] TT#179354 Update binary files to grml-sipwise-bullseye-20220607_142606.iso
+
+ -- Mykola Malkov <mmalkov@sipwise.com>  Tue, 07 Jun 2022 18:28:45 +0300
+
 ngcp-pxe-boot (0.7.2.1+0~sipwise20220601) unstable; urgency=medium
 
   [ Guillem Jover ]

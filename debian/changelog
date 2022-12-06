@@ -1,3 +1,10 @@
+ngcp-pxe-boot (0.8.0.0+0~sipwise20221201) unstable; urgency=medium
+
+  * [83a9a64] MT#55861 Update binary files to grml-sipwise-
+    bookworm-20221201_172749.iso
+
+ -- Michael Prokop <mprokop@sipwise.com>  Tue, 06 Dec 2022 13:05:48 +0100
+
 ngcp-pxe-boot (0.7.2.2+0~sipwise20220607) unstable; urgency=medium
 
   * [d05da3c] TT#179354 Update binary files to grml-sipwise-bullseye-20220607_142606.iso

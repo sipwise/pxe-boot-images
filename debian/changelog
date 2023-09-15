@@ -1,4 +1,4 @@
-ngcp-pxe-boot (0.8.2.0+0~sipwise20230808) unstable; urgency=medium
+ngcp-pxe-boot (0.8.2.0+0~sipwise20230915) unstable; urgency=medium
 
   [ Sipwise Jenkins Builder ]
   * [dd46069] MT#55285 Update binary files to grml-sipwise-bookworm-20230915

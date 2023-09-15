@@ -1,3 +1,10 @@
+ngcp-pxe-boot (0.8.2.0+0~sipwise20230808) unstable; urgency=medium
+
+  [ Sipwise Jenkins Builder ]
+  * [dd46069] MT#55285 Update binary files to grml-sipwise-bookworm-20230915
+
+ -- Mykola Malkov <mmalkov@sipwise.com>  Fri, 15 Sep 2023 17:16:20 +0300
+
 ngcp-pxe-boot (0.8.1.0+0~sipwise20230808) unstable; urgency=medium
 
   * [af41fdd] MT#57980 Update binary files to grml-sipwise-bookworm-20230808_122544.iso

@@ -1,27 +1,32 @@
-NOTE: The current git repository tracks huge files
-using Git Large File Storage (LFS).
+NOTE: The current git repository tracks huge files using
+Git Large File Storage (LFS).
 
-Please download and install Git command line extension
-'git-lfs' to checkout code properly.
+# Setup:
 
-https://github.com/github/git-lfs/releases
-
-# dpkg -i git-lfs_1.1.0_amd64.deb
-$ git lfs install
-
-In short:
-huge files are stored on GitHub LFS directly
-and checked out/updated automatically using git-lfs extension.
-The repository itself contains references to big files only
-(altogether with their checksum).
-
-# Adding new big files:
-
-git lfs track <filename>
-git add <filename>
-git lfs status
+You need to install the 'git-lfs' package to checkout the large files that
+are tracked off-band on the GitHub LFS storage.
 
 ```
+# apt install git-lfs
+```
+
+After the package is installed, you might need to setup the git-lfs
+integration inside the repository, with:
+
+```
+$ git lfs install
+```
+
+After that, the large files will get checked out and updated automatically
+using the git-lfs integration. The repository itself only contains references
+to these large files (along their checksums).
+
+# Adding new large files:
+
+```
+$ git lfs track <filename>
+$ git add <filename>
+$ git lfs status
 On branch vseva/17675
 Git LFS objects to be pushed to gerrit/master:
 

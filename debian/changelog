@@ -1,3 +1,10 @@
+ngcp-pxe-boot (0.9.1.0+0~sipwise20250407ubuntu1) unstable; urgency=medium
+
+  [ Sipwise Jenkins Builder ]
+  * [6b8413d] MT#62971 Update binary files to grml-sipwise-trixie-20250616
+
+ -- Mykola Malkov <mmalkov@sipwise.com>  Tue, 17 Jun 2025 10:03:40 +0300
+
 ngcp-pxe-boot (0.8.2.2+0~sipwise20250407) unstable; urgency=medium
 
   [ Sipwise Jenkins Builder ]

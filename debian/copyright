@@ -4,17 +4,21 @@ Upstream-Contact: Sipwise Development Team <support@sipwise.com>
 
 Files:
  debian/*
-Copyright: 2016-2024 Sipwise GmbH, Austria
+Copyright:
+ 2016-2025 Sipwise GmbH, Austria
 License: GPL-2
 
 Files:
  images/initrd.img
  images/vmlinuz
-Copyright: 1991-2012 Linus Torvalds and many others
+Copyright:
+ 1991-2012 Linus Torvalds and many others
 License: GPL-2
 
-Files: fs/grml64-small/*
-Copyright: Michael Prokop <mika@grml.org>
+Files:
+ fs/grml64-small/*
+Copyright:
+ Michael Prokop <mika@grml.org>
 License: miscellaneous, see https://grml.org/
 
 License: GPL-2
